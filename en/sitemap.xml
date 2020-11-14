@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.andreashohl.eu/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.andreashohl.eu/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.andreashohl.eu/cv/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/cv/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.andreashohl.eu/research/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/research/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.andreashohl.eu/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.andreashohl.eu/teaching/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/teaching/"
+                />
+  </url>
+  
+</urlset>

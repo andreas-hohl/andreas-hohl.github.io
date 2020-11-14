@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Curriculum Vitæ on Andreas Hohl</title>
-    <link>https://www.andreashohl.eu/cv/</link>
+    <link>https://www.andreashohl.eu/de/cv/</link>
     <description>Recent content in Curriculum Vitæ on Andreas Hohl</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://www.andreashohl.eu/cv/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language><atom:link href="https://www.andreashohl.eu/de/cv/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

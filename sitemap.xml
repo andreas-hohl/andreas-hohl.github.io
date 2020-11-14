@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://www.andreashohl.eu/</loc>
-  </url>
+  <sitemap>
+    <loc>https://www.andreashohl.eu/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://www.andreashohl.eu/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://www.andreashohl.eu/de/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://www.andreashohl.eu/cv/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.andreashohl.eu/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.andreashohl.eu/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.andreashohl.eu/teaching/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
