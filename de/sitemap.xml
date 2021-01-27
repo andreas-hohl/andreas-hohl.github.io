@@ -31,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://www.andreashohl.eu/de/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/privacy/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.andreashohl.eu/de/research/</loc>
     <xhtml:link
                 rel="alternate"
