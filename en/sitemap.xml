@@ -11,6 +11,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.andreashohl.eu/"
                 />
@@ -25,6 +35,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.andreashohl.eu/categories/"
                 />
@@ -36,6 +56,16 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.andreashohl.eu/de/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/cv/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -67,6 +97,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/research/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.andreashohl.eu/research/"
                 />
@@ -81,6 +121,16 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="https://www.andreashohl.eu/tags/"
                 />
@@ -92,6 +142,16 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.andreashohl.eu/de/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
