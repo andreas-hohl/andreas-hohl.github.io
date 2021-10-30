@@ -137,6 +137,30 @@
   </url>
   
   <url>
+    <loc>https://www.andreashohl.eu/talks/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/talks/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.andreashohl.eu/teaching/</loc>
     <xhtml:link
                 rel="alternate"
