@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.andreashohl.eu/</loc>
     <xhtml:link
@@ -24,9 +23,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,9 +45,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/cv/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,9 +67,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/cv/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -86,9 +79,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/privacy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -110,9 +101,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/research/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,9 +123,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/talks/</loc>
     <xhtml:link
                 rel="alternate"
@@ -158,9 +145,7 @@
                 hreflang="en"
                 href="https://www.andreashohl.eu/talks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/teaching/</loc>
     <xhtml:link
                 rel="alternate"
@@ -183,5 +168,4 @@
                 href="https://www.andreashohl.eu/teaching/"
                 />
   </url>
-  
 </urlset>

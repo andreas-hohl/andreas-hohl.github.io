@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.andreashohl.eu/it/categories/</loc>
     <xhtml:link
@@ -24,9 +23,7 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/it/</loc>
     <xhtml:link
                 rel="alternate"
@@ -48,9 +45,7 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/it/talks/</loc>
     <xhtml:link
                 rel="alternate"
@@ -72,9 +67,7 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/talks/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/it/cv/</loc>
     <xhtml:link
                 rel="alternate"
@@ -96,9 +89,7 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/cv/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/it/teaching/</loc>
     <xhtml:link
                 rel="alternate"
@@ -120,9 +111,7 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/teaching/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/it/research/</loc>
     <xhtml:link
                 rel="alternate"
@@ -144,9 +133,7 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/research/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.andreashohl.eu/it/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -169,5 +156,4 @@
                 href="https://www.andreashohl.eu/it/tags/"
                 />
   </url>
-  
 </urlset>
