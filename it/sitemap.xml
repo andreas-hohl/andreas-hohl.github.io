@@ -2,6 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.andreashohl.eu/it/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/"
+                />
+  </url><url>
     <loc>https://www.andreashohl.eu/it/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -22,28 +45,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/categories/"
-                />
-  </url><url>
-    <loc>https://www.andreashohl.eu/it/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.andreashohl.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/it/talks/</loc>
