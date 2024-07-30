@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks and presentations on Andreas Hohl</title>
+    <title>Talks and activities on Andreas Hohl</title>
     <link>https://www.andreashohl.eu/talks/</link>
-    <description>Recent content in Talks and presentations on Andreas Hohl</description>
+    <description>Recent content in Talks and activities on Andreas Hohl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="https://www.andreashohl.eu/talks/index.xml" rel="self" type="application/rss+xml" />
   </channel>
