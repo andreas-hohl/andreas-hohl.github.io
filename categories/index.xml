@@ -4,7 +4,8 @@
     <title>Categories on Andreas Hohl</title>
     <link>https://www.andreashohl.eu/categories/</link>
     <description>Recent content in Categories on Andreas Hohl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://www.andreashohl.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://www.andreashohl.eu/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
