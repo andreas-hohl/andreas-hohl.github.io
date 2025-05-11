@@ -4,8 +4,7 @@
     <title>Forschung on Andreas Hohl</title>
     <link>https://www.andreashohl.eu/de/research/</link>
     <description>Recent content in Forschung on Andreas Hohl</description>
-    <generator>Hugo</generator>
-    <language>de</language>
-    <atom:link href="https://www.andreashohl.eu/de/research/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="https://www.andreashohl.eu/de/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
