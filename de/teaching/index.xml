@@ -4,7 +4,8 @@
     <title>Lehre on Andreas Hohl</title>
     <link>https://www.andreashohl.eu/de/teaching/</link>
     <description>Recent content in Lehre on Andreas Hohl</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://www.andreashohl.eu/de/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>de</language>
+    <atom:link href="https://www.andreashohl.eu/de/teaching/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
