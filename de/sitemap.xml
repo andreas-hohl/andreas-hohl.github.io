@@ -124,6 +124,18 @@
                 href="https://www.andreashohl.eu/de/teaching/"
                 />
   </url><url>
+    <loc>https://www.andreashohl.eu/de/jobs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/jobs/"
+                />
+  </url><url>
     <loc>https://www.andreashohl.eu/de/tags/</loc>
     <xhtml:link
                 rel="alternate"

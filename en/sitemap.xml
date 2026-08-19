@@ -68,6 +68,18 @@
                 href="https://www.andreashohl.eu/cv/"
                 />
   </url><url>
+    <loc>https://www.andreashohl.eu/jobs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/jobs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/jobs/"
+                />
+  </url><url>
     <loc>https://www.andreashohl.eu/privacy/</loc>
     <xhtml:link
                 rel="alternate"
