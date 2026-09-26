@@ -2,26 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.andreashohl.eu/de/</loc>
+    <loc>https://www.andreashohl.eu/de/jobs/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.andreashohl.eu/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/"
+                href="https://www.andreashohl.eu/jobs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://www.andreashohl.eu/de/"
+                href="https://www.andreashohl.eu/de/jobs/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/de/categories/</loc>
@@ -124,18 +114,6 @@
                 href="https://www.andreashohl.eu/de/teaching/"
                 />
   </url><url>
-    <loc>https://www.andreashohl.eu/de/jobs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.andreashohl.eu/jobs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/jobs/"
-                />
-  </url><url>
     <loc>https://www.andreashohl.eu/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -156,6 +134,28 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://www.andreashohl.eu/de/tags/"
+                />
+  </url><url>
+    <loc>https://www.andreashohl.eu/de/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.andreashohl.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/de/talks/</loc>
