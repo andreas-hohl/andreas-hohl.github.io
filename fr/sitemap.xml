@@ -5,7 +5,7 @@
     <loc>https://www.andreashohl.eu/fr/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/"
                 />
     <xhtml:link
@@ -15,19 +15,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/categories/"
                 />
     <xhtml:link
@@ -37,19 +37,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/categories/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/categories/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/categories/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/fr/cv/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/cv/"
                 />
     <xhtml:link
@@ -59,19 +59,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/cv/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/cv/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/cv/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/cv/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/fr/teaching/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/teaching/"
                 />
     <xhtml:link
@@ -81,19 +81,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/teaching/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/teaching/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/teaching/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/fr/talks/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/talks/"
                 />
     <xhtml:link
@@ -103,19 +103,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/talks/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/talks/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/talks/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/talks/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/fr/research/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/research/"
                 />
     <xhtml:link
@@ -125,19 +125,19 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/research/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/research/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/research/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/research/"
                 />
   </url><url>
     <loc>https://www.andreashohl.eu/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/tags/"
                 />
     <xhtml:link
@@ -147,13 +147,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
-                href="https://www.andreashohl.eu/it/tags/"
+                hreflang="fr"
+                href="https://www.andreashohl.eu/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="https://www.andreashohl.eu/fr/tags/"
+                hreflang="it"
+                href="https://www.andreashohl.eu/it/tags/"
                 />
   </url>
 </urlset>

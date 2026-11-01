@@ -5,7 +5,7 @@
     <loc>https://www.andreashohl.eu/de/jobs/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/jobs/"
                 />
     <xhtml:link
@@ -17,8 +17,13 @@
     <loc>https://www.andreashohl.eu/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,17 +35,17 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/categories/"
-                />
   </url><url>
     <loc>https://www.andreashohl.eu/de/cv/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/cv/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/cv/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -52,16 +57,11 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/cv/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/cv/"
-                />
   </url><url>
     <loc>https://www.andreashohl.eu/de/privacy/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/privacy/"
                 />
     <xhtml:link
@@ -73,8 +73,13 @@
     <loc>https://www.andreashohl.eu/de/research/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/research/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/research/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -86,17 +91,17 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/research/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/research/"
-                />
   </url><url>
     <loc>https://www.andreashohl.eu/de/teaching/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/teaching/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -108,17 +113,17 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/teaching/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/teaching/"
-                />
   </url><url>
     <loc>https://www.andreashohl.eu/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -130,17 +135,17 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/tags/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/tags/"
-                />
   </url><url>
     <loc>https://www.andreashohl.eu/de/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -152,17 +157,17 @@
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/"
-                />
   </url><url>
     <loc>https://www.andreashohl.eu/de/talks/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
+                hreflang="en-gb"
                 href="https://www.andreashohl.eu/talks/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://www.andreashohl.eu/de/talks/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -173,11 +178,6 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://www.andreashohl.eu/it/talks/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://www.andreashohl.eu/de/talks/"
                 />
   </url>
 </urlset>
